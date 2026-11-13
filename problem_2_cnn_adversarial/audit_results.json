@@ -1,0 +1,25 @@
+{
+  "total": 1000,
+  "clean_accuracy": 1.0,
+  "clean_accuracy_ci": [
+    0.9961731014136095,
+    1.0
+  ],
+  "asr": 1.0,
+  "asr_ci": [
+    0.9961731014136095,
+    1.0
+  ],
+  "ssim": 0.9469447544813157,
+  "ssim_median": 0.9555763602256775,
+  "ssim_min": 0.600791871547699,
+  "ssim_below_0_8": 15,
+  "psnr": 31.173952934255585,
+  "l2": 1.7971480070594699,
+  "linf": 0.11403529611229897,
+  "linf_median_255": 27.0000059902668,
+  "passed": true,
+  "refined_images": 320,
+  "refinement_queries_total": 353140,
+  "refinement_queries_mean": 1103.5625
+}
